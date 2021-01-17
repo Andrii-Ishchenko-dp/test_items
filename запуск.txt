@@ -1,0 +1,1 @@
+pytest -v -rx --tb=line C:\selenium_course\Test_item\test_item.py
